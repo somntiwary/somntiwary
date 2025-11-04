@@ -73,7 +73,7 @@
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/weaviate.png" width="22" height="22" style="border-radius:4px;" alt="Weaviate" /> Weaviate</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" /> Git</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.22); border: 1px solid rgba(255,255,255,0.35); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" /> GitHub</td>
-      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /> VS Code</td>
+      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /> VS&nbsp;Code</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /> Canva</td>
     </tr>
   </table>
