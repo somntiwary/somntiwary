@@ -4,14 +4,17 @@
 </p>
 
 <!-- 💬 Animated Typing Header -->
-<div align="center">
+<div align="center" style="max-width: 900px; margin: 0 auto;">
 
   <a href="https://github.com/somntiwary">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&center=true&vCenter=true&multiline=true&random=false&width=900&lines=AI+Enthusiast+%7C+Data+Analyst+%7C+Software+Developer+%7C+UI%2FUX+Designeralt="Animated header"/>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2200&pause=700&center=true&vCenter=true&width=650&height=70&lines=AI+Enthusiast;Data+Analyst;Software+Developer;UI%2FUX+Designer" 
+      alt="Animated header"
+      style="max-width:100%; display:block; margin:auto;"/>
   </a>
 
   <!-- 🧿 Social and quick stats badges -->
-  <p style="margin-top: 25px;">
+  <p style="margin-top: 20px;">
     <a href="https://github.com/somntiwary"><img src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
     <a href="mailto:somntiwary@gmail.com"><img src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
     <a href="https://www.linkedin.com/in/sompriya-n-t"><img src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
@@ -97,11 +100,11 @@
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&cache_seconds=7200&theme=radical&hide_border=true" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="streak"/>
+<img height="165" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&cache_seconds=7200&theme=radical&hide_border=true" alt="stats"/>
+<img height="165" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="streak"/>
 
 <!-- Top Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&cache_seconds=7200&theme=radical&hide_border=true" alt="top languages"/>
+<img height="165" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&cache_seconds=7200&theme=radical&hide_border=true" alt="top languages"/>
 
 </div>
 
@@ -137,9 +140,3 @@
   <br/>
   <sub>Tip: Replace <code>somntwary</code> with your username if you fork this.</sub>
 </div>
-
-
-
-
-
-
