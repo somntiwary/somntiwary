@@ -114,7 +114,7 @@
         <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
-        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-streak-stats.herokuapp.com/?user=somntiwary&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://streak-stats.vercel.app/?user=somntiwary&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400&v=4" alt="GitHub Streak" />
       </td>
       <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
         <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
