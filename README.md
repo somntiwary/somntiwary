@@ -97,16 +97,12 @@
 
 ## 🧮 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Readme Stats -->
-<img height="165" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&cache_seconds=7200&theme=radical&hide_border=true" alt="stats"/>
-<img height="165" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="streak"/>
-
-<!-- Top Languages -->
-<img height="165" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&cache_seconds=7200&theme=radical&hide_border=true" alt="top languages"/>
-
+<div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
+
 
 
 ## 💠 3D Contribution Graph
