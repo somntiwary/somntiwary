@@ -97,16 +97,21 @@
 
 ## 🧮 GitHub Stats
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-
-  <img height="150" width="320" style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,.2);" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-  <img height="150" width="320" style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,.2);" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <img height="150" width="320" style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,.2);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-
+<div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
+  <table style="width:100%; border-collapse:separate; border-spacing:12px;">
+    <tr>
+      <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
