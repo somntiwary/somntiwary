@@ -17,8 +17,8 @@
   <div align="center" style="padding: 10px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,.18); max-width: 820px; margin: 16px auto 0; overflow-x:auto;">
     <table style="width:100%; min-width:760px; border-collapse:separate; border-spacing:10px;">
       <tr>
-        <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.10); border-radius:12px; padding:6px;">
-          <a href="https://github.com/somntiwary"><img style="transform:scale(1.12);" src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=6e42f5" alt="profile views"/></a>
+        <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
+          <a href="https://github.com/somntiwary"><img style="transform:scale(1.12);" src="https://visitor-badge.laobi.icu/badge?page_id=somntiwary.somntiwary&left_color=24292e&right_color=6e42f5&left_text=Profile%20Views" alt="profile views"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
           <a href="mailto:somntiwary@gmail.com"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&colorA=FF8A8A&colorB=FF3D77" alt="email"/></a>
