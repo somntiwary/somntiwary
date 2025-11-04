@@ -21,13 +21,13 @@
           <a href="https://github.com/somntiwary"><img style="transform:scale(1.12);" src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="mailto:somntiwary@gmail.com"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+          <a href="mailto:somntiwary@gmail.com"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&colorA=FF8A8A&colorB=FF3D77" alt="email"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="https://www.linkedin.com/in/sompriya-n-t"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+          <a href="https://www.linkedin.com/in/sompriya-n-t"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0A66C2&colorB=00C5FF" alt="linkedin"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="https://github.com/somntiwary?tab=followers"><img style="transform:scale(1.12);" src="https://img.shields.io/github/followers/somntiwary?style=for-the-badge&logo=github" alt="Followers"/></a>
+          <a href="https://github.com/somntiwary?tab=followers"><img style="transform:scale(1.12);" src="https://img.shields.io/github/followers/somntiwary?style=for-the-badge&logo=github&logoColor=white&colorA=24292e&colorB=6e42f5" alt="Followers"/></a>
         </td>
       </tr>
     </table>
