@@ -154,5 +154,5 @@
   <br/>
   Made with &hearts; by <a href="https://github.com/somntiwary">Sompriya</a>
   <br/>
-  <sub>Tip: Replace <code>somntwary</code> with your username if you fork this.</sub>
+  <sub>Tip: Replace <code>somntiwary</code> with your username if you fork this.</sub>
 </div>
