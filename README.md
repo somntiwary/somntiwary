@@ -49,59 +49,71 @@
 ## 🧰 Tech Stack
 
 <div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
-  <table style="width:100%; border-collapse:separate; border-spacing:12px;">
+  <table style="width:100%; border-collapse:separate; border-spacing:10px;">
+    <!-- Line 1: Languages + Frontend -->
     <tr>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">Python</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" /> Python
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">C/C++</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22" height="22" /> C/C++
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">JavaScript</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" /> JavaScript
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">TypeScript</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22" height="22" /> TypeScript
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" height="22" /> SQL
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" /> HTML5
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" /> CSS3
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="22" height="22" /> Tailwind
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" height="22" /> Angular
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" height="22" /> React
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="22" height="22" /> Bootstrap
       </td>
     </tr>
+    <!-- Line 2: Backend + Tools -->
     <tr>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">Angular</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="22" height="22" /> FastAPI
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">React</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="22" height="22" /> SQLite
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">HTML5</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.simpleicons.org/api/ffffff" width="22" height="22" /> REST APIs
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">CSS3</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.simpleicons.org/meta/ffffff" width="22" height="22" /> FAISS
       </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">FastAPI</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://avatars.githubusercontent.com/u/92579782?s=200&v=4" width="22" height="22" style="border-radius:4px;" /> Weaviate
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">SQLite</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" /> Git
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">Git</div>
+      <td align="center" style="background: rgba(255,255,255,0.22); border: 1px solid rgba(255,255,255,0.35); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" /> GitHub
       </td>
-      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" />
-        <div style="font-weight:600; opacity:.9;">GitHub</div>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /> VS Code
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; white-space:nowrap;">
+        <img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /> Canva
       </td>
     </tr>
   </table>
