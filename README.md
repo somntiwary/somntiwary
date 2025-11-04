@@ -1,9 +1,9 @@
-<!-- 🌈 Modern gradient banner with subtle animation -->
+<!-- Modern gradient banner with subtle animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=220&section=header&text=Sompriya%20Narayana%20Tiwary&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
-<!-- 💬 Animated Typing Header -->
+<!-- Animated Typing Header -->
 <div align="center" style="max-width: 900px; margin: 0 auto;">
 
   <a href="https://github.com/somntiwary">
@@ -13,7 +13,7 @@
       style="max-width:100%; display:block; margin:auto;"/>
   </a>
 
-  <!-- 🧿 Social and quick stats badges (glass chips) -->
+  <!-- Social and quick stats badges (glass chips) -->
   <div align="center" style="padding: 10px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,.18); max-width: 820px; margin: 16px auto 0;">
     <table style="width:100%; border-collapse:separate; border-spacing:10px;">
       <tr>
@@ -39,14 +39,14 @@
 
 ---
 
-##  About Me
+## About Me
 
 - Final‑year B.Tech (Computer Science), HMR Institute of Technology & Management, Delhi — CGPA: 8.76/10
 - Experience: Data Analyst Intern @ Escorts Kubota; Software Developer Intern @ IIT Kharagpur
 - I build AI‑powered products, data dashboards, and delightful web apps.
 
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
   <table style="width:100%; border-collapse:separate; border-spacing:8px;">
@@ -80,7 +80,7 @@
 </div>
 
 
-##  Experience Snapshot
+## Experience Snapshot
 
 - <b>Data Analyst Intern</b> — Escorts Kubota Ltd. (Jul’25–Sep’25)  
   Built dynamic Qlik Sense dashboards, optimized data pipelines, accelerated insights by ~25%.
@@ -88,12 +88,12 @@
   AI healthcare assistant on medical datasets; boosted diagnostic interpretation accuracy to ~90% using FastAPI, Angular, and LLMs.
 
 
-##  Education
+## Education
 
 - B.Tech CSE — HMR Institute of Technology & Management, Delhi (2022–2026) — CGPA: 8.76
 
 
-##  Highlighted Projects
+## Highlighted Projects
 
 - <b>AI Developer Onboarding Engine (Multi‑Agent AI System)</b> — FastAPI, React, LangChain, Python, Weaviate, Docker  
   Automated 7‑agent onboarding: setup, diagnostics, CI/CD, feedback, and walkthroughs; improved onboarding efficiency by ~60%.
@@ -107,27 +107,25 @@
 
 ## GitHub Stats
 
-<div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20); display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-
-  <!-- GitHub Stats -->
-  <img height="160" width="300" style="border-radius:12px; box-shadow:0 8px 25px rgba(0,0,0,.25);" 
-       src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" 
-       alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <img height="160" width="300" style="border-radius:12px; box-shadow:0 8px 25px rgba(0,0,0,.25);" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=somntiwary&theme=radical&hide_border=true" 
-       alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img height="160" width="300" style="border-radius:12px; box-shadow:0 8px 25px rgba(0,0,0,.25);" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" 
-       alt="Top Languages" />
-
+<div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
+  <table style="width:100%; border-collapse:separate; border-spacing:12px;">
+    <tr>
+      <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
+        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
-##  3D Contribution Graph
+
+## 3D Contribution Graph
 
 <div align="center">
 
@@ -137,7 +135,7 @@
 </div>
 
 
-##  Extras
+## Extras
 
 <details>
   <summary><b>What I’m focusing on</b></summary>
@@ -154,7 +152,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=120&section=footer" width="100%" />
   <br/>
-  Made with ❤️ by <a href="https://github.com/somntiwary">Sompriya</a>
+  Made with love by <a href="https://github.com/somntiwary">Sompriya</a>
   <br/>
   <sub>Tip: Replace <code>somntwary</code> with your username if you fork this.</sub>
 </div>
