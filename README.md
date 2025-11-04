@@ -39,14 +39,14 @@
 
 ---
 
-## ✨ About Me
+##  About Me
 
 - Final‑year B.Tech (Computer Science), HMR Institute of Technology & Management, Delhi — CGPA: 8.76/10
 - Experience: Data Analyst Intern @ Escorts Kubota; Software Developer Intern @ IIT Kharagpur
 - I build AI‑powered products, data dashboards, and delightful web apps.
 
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
   <table style="width:100%; border-collapse:separate; border-spacing:8px;">
@@ -80,7 +80,7 @@
 </div>
 
 
-## 💼 Experience Snapshot
+##  Experience Snapshot
 
 - <b>Data Analyst Intern</b> — Escorts Kubota Ltd. (Jul’25–Sep’25)  
   Built dynamic Qlik Sense dashboards, optimized data pipelines, accelerated insights by ~25%.
@@ -88,12 +88,12 @@
   AI healthcare assistant on medical datasets; boosted diagnostic interpretation accuracy to ~90% using FastAPI, Angular, and LLMs.
 
 
-## 📚 Education
+##  Education
 
 - B.Tech CSE — HMR Institute of Technology & Management, Delhi (2022–2026) — CGPA: 8.76
 
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
 - <b>AI Developer Onboarding Engine (Multi‑Agent AI System)</b> — FastAPI, React, LangChain, Python, Weaviate, Docker  
   Automated 7‑agent onboarding: setup, diagnostics, CI/CD, feedback, and walkthroughs; improved onboarding efficiency by ~60%.
@@ -105,7 +105,7 @@
   Modern responsive landing page with parallax and glass‑morphism.
 
 
-## 🧮 GitHub Stats
+##  GitHub Stats
 
 <div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
   <table style="width:100%; border-collapse:separate; border-spacing:12px;">
@@ -125,7 +125,7 @@
 
 
 
-## 💠 3D Contribution Graph
+##  3D Contribution Graph
 
 <div align="center">
 
@@ -135,7 +135,7 @@
 </div>
 
 
-## 🌀 Extras
+##  Extras
 
 <details>
   <summary><b>What I’m focusing on</b></summary>
