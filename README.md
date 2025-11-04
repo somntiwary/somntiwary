@@ -152,7 +152,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=120&section=footer" width="100%" />
   <br/>
-  Made with love by <a href="https://github.com/somntiwary">Sompriya</a>
+  Made with &hearts; by <a href="https://github.com/somntiwary">Sompriya</a>
   <br/>
   <sub>Tip: Replace <code>somntwary</code> with your username if you fork this.</sub>
 </div>
