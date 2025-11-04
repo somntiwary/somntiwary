@@ -1,15 +1,17 @@
-<!-- Modern gradient banner with subtle animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=220&section=header&text=Sompriya%20Narayana%20Tiwary&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
+<!-- 🌈 Modern gradient banner with subtle animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=220&section=header&text=Sompriya%20Narayana%20Tiwary&fontSize=36&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
+</p>
 
-<div align="center" style="margin-top:-30px;">
+<!-- 💬 Animated Typing Header -->
+<div align="center">
 
-  <!-- Animated Typing Header -->
   <a href="https://github.com/somntiwary">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&center=true&vCenter=true&multiline=true&random=false&width=900&lines=AI+%26+Full-Stack+Developer;Data+Visualization+%7C+LLMs+%7C+NLP+%7C+OCR;Designing+Impactful+Solutions+with+FastAPI%2C+Angular%2C+React" alt="Animated header"/>
   </a>
 
-  <!-- Social and quick stats badges -->
-  <p>
+  <!-- 🧿 Social and quick stats badges -->
+  <p style="margin-top: 25px;">
     <a href="https://github.com/somntiwary"><img src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
     <a href="mailto:somntiwary@gmail.com"><img src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
     <a href="https://www.linkedin.com/in/sompriya-n-t"><img src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
@@ -17,6 +19,7 @@
   </p>
 
 </div>
+
 
 
 ---
