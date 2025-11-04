@@ -97,11 +97,16 @@
 
 ## 🧮 GitHub Stats
 
-<div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+
+  <img height="150" width="320" style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,.2);" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+  <img height="150" width="320" style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,.2);" src="https://streak-stats.demolab.com?user=somntiwary&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img height="150" width="320" style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,.2);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+
 </div>
+
 
 
 
