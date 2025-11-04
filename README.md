@@ -14,20 +14,20 @@
   </a>
 
   <!-- Social and quick stats badges (glass chips) -->
-  <div align="center" style="padding: 10px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,.18); max-width: 820px; margin: 16px auto 0;">
-    <table style="width:100%; border-collapse:separate; border-spacing:10px;">
+  <div align="center" style="padding: 10px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,.18); max-width: 820px; margin: 16px auto 0; overflow-x:auto;">
+    <table style="width:100%; min-width:760px; border-collapse:separate; border-spacing:10px;">
       <tr>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="https://github.com/somntiwary"><img src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
+          <a href="https://github.com/somntiwary"><img style="transform:scale(1.12);" src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="mailto:somntiwary@gmail.com"><img src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+          <a href="mailto:somntiwary@gmail.com"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="https://www.linkedin.com/in/sompriya-n-t"><img src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+          <a href="https://www.linkedin.com/in/sompriya-n-t"><img style="transform:scale(1.12);" src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
         </td>
         <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
-          <a href="https://github.com/somntiwary?tab=followers"><img src="https://img.shields.io/github/followers/somntiwary?style=for-the-badge&logo=github" alt="Followers"/></a>
+          <a href="https://github.com/somntiwary?tab=followers"><img style="transform:scale(1.12);" src="https://img.shields.io/github/followers/somntiwary?style=for-the-badge&logo=github" alt="Followers"/></a>
         </td>
       </tr>
     </table>
@@ -46,7 +46,7 @@
 - I build AI‑powered products, data dashboards, and delightful web apps.
 
 
-## Skills
+## Tech Stack
 
 <div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
   <table style="width:100%; border-collapse:separate; border-spacing:8px;">
@@ -59,7 +59,7 @@
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" height="22" /> SQL</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" /> HTML5</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" /> CSS3</td>
-      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/tailwind.png" width="29" height="29" alt="Tailwind" /> Tailwind</td>
+      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/tailwind.png" width="22" height="22" alt="Tailwind" /> Tailwind</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" height="22" /> Angular</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" height="22" /> React</td>
     </tr>
@@ -68,12 +68,12 @@
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="22" height="22" /> Bootstrap</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="22" height="22" /> FastAPI</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="22" height="22" /> SQLite</td>
-      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/restAPI.png" width="29" height="29" alt="REST API" /> REST&nbsp;APIs</td>
-      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/FAISS.png" width="29" height="29" alt="FAISS" /> FAISS</td>
-      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/weaviate.png" width="29" height="29" style="border-radius:4px;" alt="Weaviate" /> Weaviate</td>
+      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/restAPI.png" width="22" height="22" alt="REST API" /> REST APIs</td>
+      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/FAISS.png" width="22" height="22" alt="FAISS" /> FAISS</td>
+      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="./.github/weaviate.png" width="22" height="22" style="border-radius:4px;" alt="Weaviate" /> Weaviate</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" /> Git</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.22); border: 1px solid rgba(255,255,255,0.35); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" /> GitHub</td>
-      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /> VS&nbsp;Code</td>
+      <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /> VS Code</td>
       <td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px; white-space:nowrap;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /> Canva</td>
     </tr>
   </table>
@@ -107,17 +107,17 @@
 
 ## GitHub Stats
 
-<div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
-  <table style="width:100%; border-collapse:separate; border-spacing:12px;">
+<div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20); overflow-x:auto;">
+  <table style="width:100%; min-width:1080px; border-collapse:separate; border-spacing:12px;">
     <tr>
       <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
-        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img width="360" height="180" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=somntiwary&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
-        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://streak-stats.vercel.app/?user=somntiwary&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400&v=4" alt="GitHub Streak" />
+        <img width="360" height="180" style="display:block; margin:auto; border-radius:12px;" src="https://streak-stats.vercel.app/?user=somntiwary&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400&v=4" alt="GitHub Streak" />
       </td>
       <td align="center" style="width:33.33%; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;">
-        <img height="160" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+        <img width="360" height="180" style="display:block; margin:auto; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somntiwary&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -152,7 +152,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=120&section=footer" width="100%" />
   <br/>
-  Made with &hearts; by <a href="https://github.com/somntiwary">Sompriya</a>
+  Made with love by <a href="https://github.com/somntiwary">Sompriya</a>
   <br/>
-  <sub>Tip: Replace <code>somntiwary</code> with your username if you fork this.</sub>
+  <sub>Tip: Replace <code>somntwary</code> with your username if you fork this.</sub>
 </div>
