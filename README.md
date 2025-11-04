@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://github.com/somntiwary">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&center=true&vCenter=true&multiline=true&random=false&width=900&lines=AI+%26+Full‑Stack+Developer;Data+Visualization+%7C+LLMs+%7C+NLP+%7C+OCR;Designing+impactful+solutions+with+FastAPI%2C+Angular%2C+React" alt="Animated header"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&center=true&vCenter=true&multiline=true&random=false&width=900&lines=AI+%26+Full-Stack+Developer;Data+Visualization+%7C+LLMs+%7C+NLP+%7C+OCR;Designing+Impactful+Solutions+with+FastAPI%2C+Angular%2C+React" alt="Animated header"/>
   </a>
 
   <!-- Social and quick stats badges -->
@@ -17,6 +17,7 @@
   </p>
 
 </div>
+
 
 ---
 
