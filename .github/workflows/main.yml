@@ -29,7 +29,3 @@ jobs:
           git add -A
           git commit -m "Generate 3D Contribution Graph"
           git push
-
-
-
-
