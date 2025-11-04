@@ -13,13 +13,25 @@
       style="max-width:100%; display:block; margin:auto;"/>
   </a>
 
-  <!-- 🧿 Social and quick stats badges -->
-  <p style="margin-top: 20px;">
-    <a href="https://github.com/somntiwary"><img src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
-    <a href="mailto:somntiwary@gmail.com"><img src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-    <a href="https://www.linkedin.com/in/sompriya-n-t"><img src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-    <a href="https://github.com/somntiwary?tab=followers"><img src="https://img.shields.io/github/followers/somntiwary?style=for-the-badge&logo=github" alt="Followers"/></a>
-  </p>
+  <!-- 🧿 Social and quick stats badges (glass chips) -->
+  <div align="center" style="padding: 10px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,.18); max-width: 820px; margin: 16px auto 0;">
+    <table style="width:100%; border-collapse:separate; border-spacing:10px;">
+      <tr>
+        <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
+          <a href="https://github.com/somntiwary"><img src="https://komarev.com/ghpvc/?username=somntiwary&style=for-the-badge&color=blueviolet" alt="profile views"/></a>
+        </td>
+        <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
+          <a href="mailto:somntiwary@gmail.com"><img src="https://img.shields.io/badge/Email-somntiwary%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+        </td>
+        <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
+          <a href="https://www.linkedin.com/in/sompriya-n-t"><img src="https://img.shields.io/badge/LinkedIn-Sompriya%20Narayana%20Tiwary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+        </td>
+        <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:12px; padding:6px;">
+          <a href="https://github.com/somntiwary?tab=followers"><img src="https://img.shields.io/github/followers/somntiwary?style=for-the-badge&logo=github" alt="Followers"/></a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 </div>
 
@@ -36,37 +48,63 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<!-- Backend & Data -->
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-263238?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Weaviate-19C2FF?style=for-the-badge&logo=weaviate&logoColor=white" />
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-
+<div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
+  <table style="width:100%; border-collapse:separate; border-spacing:12px;">
+    <tr>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">Python</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">C/C++</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">JavaScript</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">TypeScript</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">Angular</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">React</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">HTML5</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">CSS3</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">FastAPI</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">SQLite</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">Git</div>
+      </td>
+      <td align="center" style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" />
+        <div style="font-weight:600; opacity:.9;">GitHub</div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
