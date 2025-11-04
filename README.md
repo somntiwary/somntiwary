@@ -46,7 +46,7 @@
 - I build AI‑powered products, data dashboards, and delightful web apps.
 
 
-## Tech Stack
+## Skills
 
 <div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
   <table style="width:100%; border-collapse:separate; border-spacing:8px;">
