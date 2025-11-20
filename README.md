@@ -49,106 +49,89 @@
 ## Skills
 
 
-<div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); 
-border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; 
-box-shadow: 0 10px 30px rgba(0,0,0,.20); width: 100%;">
+<div align="center" style="padding:12px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.18); border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,.20);">
+<table style="border-collapse:separate; border-spacing:8px;">
 
-<div style="
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
-gap: 10px;
-max-width: 900px;
-margin: auto;
-">
-
-<!-- ITEM -->
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<!-- ROW 1 (9 ITEMS) -->
+<tr>
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"><br>Python
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"><br>C++
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"><br>JavaScript
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"><br>SQL
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"><br>MongoDB
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"><br>HTML5
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"><br>CSS3
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="./.github/tailwind.png" width="28"><br>Tailwind
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"><br>Angular
-</div>
+</td>
+</tr>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<!-- ROW 2 (8 ITEMS + 1 INVISIBLE CELL) -->
+<tr>
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"><br>React
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28"><br>Bootstrap
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"><br>FastAPI
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="./.github/restAPI.png" width="28"><br>REST APIs
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"><br>Git
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.simpleicons.org/github/ffffff" width="28"><br>GitHub
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"><br>VS Code
-</div>
+</td>
 
-<div style="text-align:center; background:rgba(255,255,255,0.12);
-border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:12px;">
+<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.simpleicons.org/canva/00C4CC" width="28"><br>Canva
+</td>
+
+<!-- INVISIBLE CELL (keeps alignment perfect) -->
+<td style="width:110px; border:none; background:transparent;"></td>
+</tr>
+
+</table>
 </div>
 
-</div>
-</div>
 
 
 
