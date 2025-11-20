@@ -52,6 +52,7 @@
 <table style="width:100%; border-collapse:separate; border-spacing:8px;">
 
 <!-- ROW 1 (9 ITEMS) -->
+<div align="center">
 <tr>
 <td align="center" style="width:11%; background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" /> <br> Python
@@ -89,8 +90,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28" /> <br> Angular
 </td>
 </tr>
+</div>
 
 <!-- ROW 2 (8 ITEMS) -->
+<div align="center">
 <tr>
 <td align="center" style="width:12%; background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" /> <br> React
@@ -124,6 +127,7 @@
 <img src="https://cdn.simpleicons.org/canva/00C4CC" width="28" /> <br> Canva
 </td>
 </tr>
+</div>
 
 </table>
 </div>
