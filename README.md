@@ -1,10 +1,7 @@
 <!-- Modern gradient banner with subtle animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1200&color=00F7A4&center=true&vCenter=true&width=800&lines=👾+Sompriya+Narayana+Tiwary+👾;Loading+Developer+Profile...;Press+Start+To+Continue" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:ffffff10,100:ffffff05&text=Sompriya%20Narayana%20Tiwary&fontColor=d0d0d0&fontSize=36&animation=fadeIn&stroke=ffffff30&strokeWidth=0.5" width="100%" />
 </p>
-
-
-
 
 <!-- Animated Typing Header -->
 <div align="center" style="max-width: 900px; margin: 0 auto;">
