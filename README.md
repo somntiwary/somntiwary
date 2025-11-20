@@ -1,7 +1,8 @@
 <!-- Modern gradient banner with subtle animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00111A,100:4B0082&text=Sompriya%20Narayana%20Tiwary&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling&stroke=8A2BE2&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FFD700&height=220&section=header&text=Sompriya%20Narayana%20Tiwary&fontSize=34&fontAlign=50&fontColor=fff5cc&animation=twinkling&font=Press%20Start%202P" width="100%" />
 </p>
+
 
 
 <!-- Animated Typing Header -->
