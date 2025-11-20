@@ -109,9 +109,6 @@
 <img src="./.github/restAPI.png" width="28"><br>REST APIs
 </td>
 
-<!-- INVISIBLE CELL (keeps alignment perfect) -->
-<td style="width:110px; border:none; background:transparent;"></td>
-
 <td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"><br>Git
 </td>
