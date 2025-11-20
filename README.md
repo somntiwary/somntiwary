@@ -1,7 +1,12 @@
 <!-- Modern gradient banner with subtle animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:ff0080,100:8a2be2&text=Sompriya%20Narayana%20Tiwary&fontColor=ffffff&fontSize=42&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=1000&lines=Sompriya+Narayana+Tiwary;Software+Engineer;AI+%7C+Full+Stack+Developer;Hologram+Interface+Activated..." />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:0051FF&height=2&section=header" width="100%">
+</p>
+
 
 <!-- Animated Typing Header -->
 <div align="center" style="max-width: 900px; margin: 0 auto;">
