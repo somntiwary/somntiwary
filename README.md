@@ -1,10 +1,10 @@
 <!-- Modern gradient banner with subtle animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=1000&lines=Sompriya+Narayana+Tiwary;Software+Engineer;AI+%7C+Full+Stack+Developer;Hologram+Interface+Activated..." />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F3FF&animation=blink&text=Sompriya%20Narayana%20Tiwary&height=150&fontSize=45&desc=Hologram%20Interface%20Online&descSize=18&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:0051FF&height=2&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer" width="100%" />
 </p>
 
 
