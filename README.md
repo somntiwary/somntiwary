@@ -1,6 +1,6 @@
 <!-- Modern gradient banner with subtle animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff47c1,100:9b3dff&height=210&section=header&text=Sompriya%20Narayana%20Tiwary&font=Press%20Start%202P&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Sompriya%20Narayana%20Tiwary&font=Press%20Start%202P&fontSize=34&fontColor=ffb3ff&animation=twinkling&color=0:ff3bd4,100:c770ff" width="100%" />
 </p>
 
 
