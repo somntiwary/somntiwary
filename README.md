@@ -1,12 +1,11 @@
 <!-- Modern gradient banner with subtle animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F3FF&animation=blink&text=Sompriya%20Narayana%20Tiwary&height=150&fontSize=45&desc=Hologram%20Interface%20Online&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7209B7,100:48CAE4&height=200&section=header&text=Sompriya%20Narayana%20Tiwary&fontSize=40&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=00E5FF&strokeWidth=2" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=3&section=footer" width="100%" />
 </p>
-
 
 <!-- Animated Typing Header -->
 <div align="center" style="max-width: 900px; margin: 0 auto;">
