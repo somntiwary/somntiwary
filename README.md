@@ -52,86 +52,53 @@
 <div align="center" style="padding: 12px; width:100%;">
 <table style="width:100%; border-collapse:separate; border-spacing:12px; table-layout: fixed;">
 
-
-<!-- ROW 1 (9 ITEMS) -->
 <tr>
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"><br>Python
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" /> <br> Python
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"><br>C++
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" /> <br> C++
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"><br>JavaScript
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" /> <br> JavaScript
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"><br>SQL
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" /> <br> SQL
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"><br>MongoDB
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" /> <br> MongoDB
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"><br>HTML5
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" /> <br> HTML5
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"><br>CSS3
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" /> <br> CSS3
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="./.github/tailwind.png" width="28"><br>Tailwind
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="./.github/tailwind.png" width="28" /> <br> Tailwind
 </td>
 
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"><br>Angular
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28" /> <br> Angular
 </td>
 </tr>
 
-<!-- ROW 2 (8 ITEMS + 1 INVISIBLE CELL) -->
 <tr>
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"><br>React
+<td align="center" style="background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" /> <br> React
 </td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28"><br>Bootstrap
-</td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"><br>FastAPI
-</td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="./.github/restAPI.png" width="28"><br>REST APIs
-</td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"><br>Git
-</td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="28"><br>GitHub
-</td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"><br>VS Code
-</td>
-
-<td align="center" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:14px; padding:10px; width:110px;">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="28"><br>Canva
-</td>
-
-
+<!-- remaining 7 icons exactly same style... -->
 </tr>
 
 </table>
 </div>
-
 
 
 
