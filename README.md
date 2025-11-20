@@ -49,95 +49,34 @@
 ## Skills
 
 
-<div align="center" style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 12px;
-  padding: 16px;
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.18);
-  border-radius: 16px;
-">
+<div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
+<table style="width:100%; border-collapse:separate; border-spacing:8px;">
 
-<!-- Skill item -->
-<div style="
-  width: 110px;
-  padding: 12px;
-  border-radius: 12px;
-  background: rgba(255,255,255,0.12);
-  border: 1px solid rgba(255,255,255,0.25);
-  text-align: center;
-">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/><br>Python
+<tr>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" /><br> Python</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35" /><br> C++</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" /><br> JavaScript</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" height="22" /><br> SQL</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22" height="22" /><br> MongoDB</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" /><br> HTML5</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" /><br> CSS3</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="./.github/tailwind.png" width="29" height="29" alt="Tailwind" /> Tailwind</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" height="22" /><br> Angular</td>
+</tr>
+
+<tr>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" height="22" /><br> React</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="22" height="22" /><br> Bootstrap</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="22" height="22" /><br> FastAPI</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="./.github/restAPI.png" width="29" height="29" alt="REST API" /><br> REST&nbsp;APIs</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" /><br> Git</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.22); border: 1px solid rgba(255,255,255,0.35); border-radius:14px; padding:8px;"><img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" /> GitHub</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" /><br> VS&nbsp;Code</td>
+<td align="center" style="width:10%; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25); border-radius:14px; padding:8px;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /><br> Canva</td>
+</tr>
+
+</table>
 </div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34"/><br>C++
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/><br>JavaScript
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/><br>SQL
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/><br>MongoDB
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/><br>HTML5
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/><br>CSS3
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="./.github/tailwind.png" width="32"/><br>Tailwind
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"/><br>Angular
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/><br>React
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28"/><br>Bootstrap
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"/><br>FastAPI
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="./.github/restAPI.png" width="32"/><br>REST APIs
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/><br>Git
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="28"/><br>GitHub
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/><br>VS Code
-</div>
-
-<div style="width:110px; padding:12px; border-radius:12px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); text-align:center;">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="28"/><br>Canva
-</div>
-
-</div>
-
 
 
 ## Experience Snapshot
