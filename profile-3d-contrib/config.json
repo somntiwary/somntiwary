@@ -1,0 +1,14 @@
+{
+  "theme": {
+    "bg_color": "#000814",
+    "grid_color": "#001d3d",
+    "gradient": ["#001d3d", "#003566", "#1b263b"],
+    "line_color": "#00aaff",
+    "dot_color": "#00b4d8",
+    "text_color": "#e0f7ff",
+    "shadow_color": "#000000"
+  },
+  "output": "profile-blue-black.svg",
+  "day_start": 0,
+  "day_end": 23
+}
