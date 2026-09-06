@@ -12,7 +12,7 @@
 
   <a href="https://github.com/somntiwary">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2200&pause=700&center=true&vCenter=true&width=650&height=70&lines=Agentic+AI+%26+RAG;Python+%26+FastAPI;AI+Evaluation;Data+Analytics" 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2200&pause=700&center=true&vCenter=true&width=650&height=70&lines=Agentic+AI+%26+RAG;Python+%26+FastAPI;AI+Evaluation" 
       alt="Animated header"
       style="max-width:100%; display:block; margin:auto;"/>
   </a>
@@ -42,7 +42,7 @@
 
 
 
-About Me
+👋 About Me
 
 I'm a Computer Science & Engineering graduate specializing in Artificial Intelligence, enrolled in the M.Sc. Computational Sciences programme at Freie Universität Berlin for Winter Semester 2026/27.
 
@@ -50,11 +50,21 @@ I build and evaluate agentic AI systems, retrieval-augmented generation (RAG) ap
 
 My core tools include Python, FastAPI, LangGraph, LangChain, FAISS, Ollama, and PostgreSQL. I focus on prompt iteration, agent testing, failure analysis, and turning data into practical applications.
 
-Seeking: AI / Machine Learning / Software Development working-student opportunities in Berlin.
+At a glance
 
-Availability: From 1 October 2026, 20 hours/week during the semester.
+Details
 
-Languages: English · German (A1).
+Seeking
+
+AI / Machine Learning / Software Development working-student opportunities in Berlin.
+
+Availability
+
+From 1 October 2026 · 20 hours/week during the semester.
+
+Languages
+
+English · German (A1).
 
 Skills
 
@@ -89,37 +99,75 @@ Skills
   </table>
 </div>
 
-Experience Snapshot
+💼 Experience Snapshot
 
-Software Developer Intern — DRDO–SSPL | Jan 2026 – May 2026
-Built a Python/FastAPI and PostgreSQL workflow platform with REST APIs, relational data models, role-based access control, task dependencies, and approval workflows. Integrated a locally hosted Ollama assistant for contextual retrieval and workflow support; tested AI/API behaviour and documented deployment in a secure on-premises environment.
+DRDO–SSPL
 
-Data Analyst Intern — Escorts Kubota Limited | Jul 2025 – Sep 2025
-Cleaned, structured, and validated manufacturing datasets, improved ETL and analytical data-modeling workflows, and translated stakeholder requirements into Qlik Sense dashboards, reducing insight-generation time by 25%.
+Software Developer Intern · Jan 2026 – May 2026
 
-Software Developer Intern – AI Healthcare — IIT Kharagpur | Jun 2025 – Jul 2025
-Developed MedIVA, combining a RAG medical chatbot with an automated diagnosis-report analyzer using Python, FastAPI, LangChain, FAISS, Sentence Transformers, OCR, NLP, and SQLite. Implemented report-text preprocessing and a BERT-based classifier that achieved 96.9% accuracy on project evaluation data, and connected AI services to an Angular interface through REST APIs.
+Built a Python/FastAPI and PostgreSQL workflow platform with REST APIs, relational data models, role-based access control, task dependencies, and approval workflows.
 
-Education
+Integrated a locally hosted Ollama assistant for contextual retrieval and workflow support; tested AI/API behaviour and documented deployment in a secure on-premises environment.
 
-M.Sc. Computational Sciences — Freie Universität Berlin
+Escorts Kubota Limited
+
+Data Analyst Intern · Jul 2025 – Sep 2025
+
+Cleaned, structured, and validated manufacturing datasets, and improved ETL and analytical data-modeling workflows.
+
+Translated stakeholder requirements into Qlik Sense dashboards, reducing insight-generation time by 25%.
+
+IIT Kharagpur
+
+Software Developer Intern – AI Healthcare · Jun 2025 – Jul 2025
+
+Developed MedIVA, combining a RAG medical chatbot with an automated diagnosis-report analyzer using Python, FastAPI, LangChain, FAISS, Sentence Transformers, OCR, NLP, and SQLite.
+
+Implemented report-text preprocessing and a BERT-based classifier that achieved 96.9% accuracy on project evaluation data.
+
+Connected AI services to an Angular interface through REST APIs.
+
+🎓 Education
+
+Freie Universität Berlin
+
+M.Sc. Computational Sciences
+
 Enrolled for Winter Semester 2026/27 · Expected graduation: 2028.
 
-B.Tech Computer Science & Engineering (Artificial Intelligence) — Guru Gobind Singh Indraprastha University
-HMR Institute of Technology & Management, Delhi · 2022 – 2026 · CGPA: 8.87/10.
+Guru Gobind Singh Indraprastha University
 
-Highlighted Projects
+B.Tech Computer Science & Engineering (Artificial Intelligence)
 
-SupportGuard AI | Agentic Customer-Support Evaluator
+HMR Institute of Technology & Management, Delhi
+2022 – 2026 · CGPA: 8.87/10
+
+🚀 Highlighted Projects
+
+SupportGuard AI
+
+Agentic Customer-Support Evaluator
+
 Tech: Python · FastAPI · LangGraph · Ollama · PostgreSQL · React
-Built an evaluation application that simulates user-agent conversations, detects failure modes and edge cases, supports trace-level output review, and exports structured findings as PDF and CSV reports.
 
-AI Developer Onboarding Engine | Seven-Agent Developer Enablement System
+Built an evaluation application that simulates user-agent conversations and detects failure modes and edge cases.
+
+Supports trace-level output review and exports structured findings as PDF and CSV reports.
+
+AI Developer Onboarding Engine
+
+Seven-Agent Developer Enablement System
+
 Tech: Python · FastAPI · LangChain · Weaviate · Docker · React
+
 Created coordinated agent workflows for repository analysis, environment setup, documentation, CI/CD workflow analysis, and contextual Q&A over project knowledge.
 
-ResortEscape AI | Full-Stack Resort Booking Platform
+ResortEscape AI
+
+Full-Stack Resort Booking Platform
+
 Tech: React.js · Node.js · Express.js · MongoDB
+
 Built a booking platform with live listings, real-time rate comparison, JWT authentication, and Razorpay payment integration.
 
 GitHub Stats
@@ -152,18 +200,17 @@ GitHub Stats
 
 </div>
 
-Extras
+🎯 What I’m Focusing On
 
-<details>
-  <summary><b>What I’m focusing on</b></summary>
+Agentic AI: Building agentic AI systems with LangGraph, LangChain, and Ollama.
 
-  - Building **agentic AI systems** with LangGraph, LangChain, and Ollama.
-  - Developing **RAG and document AI applications** using FAISS, Sentence Transformers, OCR, and NLP.
-  - Improving **AI reliability** through prompt iteration, agent testing, trace review, and failure analysis.
-  - Creating **Python/FastAPI backends** with PostgreSQL, REST APIs, and role-based access control.
-  - Connecting AI services to practical **React and Angular interfaces**.
+RAG & Document AI: Developing applications using FAISS, Sentence Transformers, OCR, and NLP.
 
-</details>
+AI Reliability: Improving AI reliability through prompt iteration, agent testing, trace review, and failure analysis.
+
+Backend Engineering: Creating Python/FastAPI backends with PostgreSQL, REST APIs, and role-based access control.
+
+Frontend Integration: Connecting AI services to practical React and Angular interfaces.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C5FF&height=120&section=footer" width="100%" />
