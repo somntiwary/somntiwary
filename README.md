@@ -52,7 +52,7 @@ My core tools include **Python, FastAPI, LangGraph, LangChain, FAISS, Ollama, an
 
 | At a glance | Details |
 | :--- | :--- |
-| **Seeking** | AI / Machine Learning / Software Development working-student opportunities in Berlin. |
+| **Seeking** | AI / Machine Learning / Software Development working-student opportunities. |
 | **Availability** | From **1 October 2026** · **20 hours/week** during the semester. |
 | **Languages** | English · German (A1). |
 
@@ -93,23 +93,23 @@ Skills
 
 ## 💼 Experience Snapshot
 
-### DRDO–SSPL
+### Defense Research and Development Organization (DRDO-SSPL)
 
-**Software Developer Intern** · `Jan 2026 – May 2026`
+**Software Developer Intern** · `Jan 2026 - May 2026`
 
 - Built a **Python/FastAPI and PostgreSQL** workflow platform with REST APIs, relational data models, **role-based access control**, task dependencies, and approval workflows.
 - Integrated a locally hosted **Ollama assistant** for contextual retrieval and workflow support; tested AI/API behaviour and documented deployment in a secure on-premises environment.
 
 ### Escorts Kubota Limited
 
-**Data Analyst Intern** · `Jul 2025 – Sep 2025`
+**Data Analyst Intern** · `Jul 2025 - Sep 2025`
 
 - Cleaned, structured, and validated manufacturing datasets, and improved **ETL and analytical data-modeling workflows**.
 - Translated stakeholder requirements into **Qlik Sense dashboards**, reducing insight-generation time by **25%**.
 
 ### IIT Kharagpur
 
-**Software Developer Intern – AI Healthcare** · `Jun 2025 – Jul 2025`
+**Software Developer Intern – AI Healthcare** · `Jun 2025 - Jul 2025`
 
 - Developed **MedIVA**, combining a **RAG medical chatbot** with an automated diagnosis-report analyzer using Python, FastAPI, LangChain, FAISS, Sentence Transformers, OCR, NLP, and SQLite.
 - Implemented report-text preprocessing and a **BERT-based classifier** that achieved **96.9% accuracy on project evaluation data**.
@@ -130,7 +130,7 @@ Enrolled for **Winter Semester 2026/27** · Expected graduation: **2028**.
 **B.Tech Computer Science & Engineering (Artificial Intelligence)**
 
 HMR Institute of Technology & Management, Delhi  
-**2022 – 2026** · **CGPA:** `8.87/10`
+**2022 - 2026** · **CGPA:** `8.87/10`
 
 ---
 
