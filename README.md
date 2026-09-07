@@ -58,7 +58,7 @@ My core tools include **Python, FastAPI, LangGraph, LangChain, FAISS, Ollama, an
 
 ---
 
-Skills
+## 💻 Skills
 
 <div align="center" style="padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20);">
   <table style="width:100%; border-collapse:separate; border-spacing:8px;">
@@ -163,7 +163,7 @@ Built a booking platform with **live listings**, **real-time rate comparison**, 
 
 ---
 
-GitHub Stats
+## GitHub Stats
 
 <div align="center" style="padding: 14px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,.20); overflow-x:auto;">
   <table style="width:100%; min-width:1080px; border-collapse:separate; border-spacing:12px;">
@@ -183,7 +183,7 @@ GitHub Stats
 
 
 
-3D Contribution Graph
+## 3D Contribution Graph
 
 <div align="center">
 
